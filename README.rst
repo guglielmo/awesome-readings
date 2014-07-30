@@ -1,7 +1,7 @@
 Awesome readings
 ================
 
-This is a list of the things I'ma reading or studying on the internet right now. It's temporary and will change over time.
+This is a list of the things I'm reading or studying on the internet right now. It's temporary and will change over time.
 
 Mix
 ---
