@@ -1,7 +1,11 @@
 Awesome readings
 ================
+
+This is a list of the things I'ma reading right now. It's temporary and will change over time.
+
+Mix
+---
 * https://github.com/guglielmo/awesome-machine-learning - Awesomeness on github
-* https://github.com/wrobstory/folium - Python Data. Leaflet.js Maps.
 * https://github.com/djangonauts/django-rest-framework-gis - DRF extension for GIS
 * https://pentesterlab.com/ - Penetration test lab
 * http://dotfiles.github.io/ - Dot files at github
@@ -33,3 +37,4 @@ Data
 
 * http://linkedstat.spaziodati.eu/ - Spazio dati linkedstat (istat, linked, open)
 * http://csvlint.io/ - CSVlint tool to clean CSV data
+* https://github.com/wrobstory/folium - Python Data. Leaflet.js Maps.
