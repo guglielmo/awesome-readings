@@ -5,7 +5,7 @@ This is a list of the things I'm reading or studying on the internet right now. 
 
 Mix
 ---
-* https://github.com/guglielmo/awesome-machine-learning - Awesomeness on github
+* https://github.com/guglielmo/awesome-machine-learning - Machine learning readings on github
 * https://github.com/djangonauts/django-rest-framework-gis - DRF extension for GIS
 * https://pentesterlab.com/ - Penetration test lab
 * http://dotfiles.github.io/ - Dot files at github
@@ -13,7 +13,7 @@ Mix
 
 Django HSTORE component
 -----------------------
-* http://www.postgresql.org/docs/9.1/interactive/hstore.html - The key-value store postgres extension
+* http://www.postgresql.org/docs/9.1/interactive/hstore.html - HSTORE key-value store postgres extension
 * https://github.com/djangonauts/django-hstore - Documentation
 * http://djangonauts.github.io/django-hstore/ - Github repo
 
