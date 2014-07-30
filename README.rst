@@ -1,4 +1,4 @@
-awesome-readings
+Awesome readings
 ================
 * https://github.com/guglielmo/awesome-machine-learning - Awesomeness on github
 * https://github.com/wrobstory/folium - Python Data. Leaflet.js Maps.
